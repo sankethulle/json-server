@@ -1,0 +1,10 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "esaName":"AARE",
+      "technicianName":"CT ID 1459",
+      "appointmentDate":"23/03/2020"
+    }
+  ]
+}
